@@ -1,0 +1,4 @@
+﻿  BealConjecture.cpp
+H:\Desktop\CSC8501 Tianfeng Ma 230020133\Beal\Beal\BealConjecture.cpp(226): warning C4715: 'BealConjecture::isBealConjectureSatisfied': not all control paths return a value
+H:\Desktop\CSC8501 Tianfeng Ma 230020133\Beal\Beal\BealConjecture.cpp(132): warning C4715: 'compare<hp>': not all control paths return a value
+  Beal.vcxproj -> H:\Desktop\CSC8501 Tianfeng Ma 230020133\Beal\x64\Debug\Beal.exe
